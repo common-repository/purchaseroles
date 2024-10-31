@@ -1,0 +1,30 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: purchaseroles.php conversion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Aug 27 2015 14:52:30 GMT+0300 (Suomen kesäaika)\n"
+"PO-Revision-Date: Thu Aug 27 2015 14:53:48 GMT+0300 (Suomen kesäaika)\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: Unknown\n"
+"Plural-Forms: nplurals=2; plural=n!=1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Loco-Source-Locale: fi_FI\n"
+"X-Loco-Parser: loco_parse_php\n"
+"X-Loco-Target-Locale: zz_ZZ\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "PurchaseRoles"
+msgstr "PurchaseRoles"
+
+#: stdin:29
+msgid "Assign a role to user after purchase:"
+msgstr "Valitse oston yhteydessä lisättävä rooli:"
+
+#: stdin:31
+msgid "None"
+msgstr "Tyhjä"
